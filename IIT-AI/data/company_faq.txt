@@ -1,0 +1,22 @@
+Company FAQs - Acme Corp
+
+Q: How many annual leave days do I get?
+A: Full-time employees get 18 days of paid annual leave per year.
+
+Q: Can I carry forward unused leave?
+A: Yes, up to 5 days can be carried forward and must be used by the end of Q1 of the
+following year.
+
+Q: Who do I contact for IT issues?
+A: Contact the IT Helpdesk at ithelpdesk@acmecorp.com or raise a ticket on the IT
+Service Portal.
+
+Q: What is the benefits enrollment process?
+A: New employees can enroll in health insurance and other benefits within 30 days of
+joining through the Benefits Portal. Enrollment outside this window requires HR
+approval.
+
+Q: What is the company's travel reimbursement policy?
+A: Employees are reimbursed for pre-approved business travel expenses including
+airfare, hotel and meals, subject to the per-diem limits published in the Travel
+Policy document. Claims must be submitted within 15 days of travel completion.

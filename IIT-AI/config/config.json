@@ -1,0 +1,31 @@
+{
+  "llm": {
+    "model": "gpt-4o-mini",
+    "temperature": 0.2,
+    "max_tokens": 500
+  },
+  "embeddings": {
+    "model": "text-embedding-3-small"
+  },
+  "chunking": {
+    "chunk_size": 800,
+    "chunk_overlap": 120
+  },
+  "retrieval": {
+    "vector_top_k": 8,
+    "bm25_top_k": 8,
+    "hybrid_vector_weight": 0.5,
+    "hybrid_bm25_weight": 0.5,
+    "rerank_top_k": 4
+  },
+  "reranker": {
+    "model": "cross-encoder/ms-marco-MiniLM-L-6-v2"
+  },
+  "paths": {
+    "data_dir": "data",
+    "vector_store_dir": "vector_store"
+  },
+  "memory": {
+    "max_history_turns": 6
+  }
+}
